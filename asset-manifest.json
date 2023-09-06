@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-dart-score/static/css/main.acfc8960.css",
+    "main.js": "/react-dart-score/static/js/main.91359312.js",
+    "static/media/Skate.ttf": "/react-dart-score/static/media/Skate.84323190061189d31ee5.ttf",
+    "index.html": "/react-dart-score/index.html",
+    "main.acfc8960.css.map": "/react-dart-score/static/css/main.acfc8960.css.map",
+    "main.91359312.js.map": "/react-dart-score/static/js/main.91359312.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acfc8960.css",
+    "static/js/main.91359312.js"
+  ]
+}
